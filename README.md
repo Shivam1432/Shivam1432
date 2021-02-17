@@ -41,5 +41,5 @@ Feel free to check out my projects and let's get to know each other better 😄
 <h3 align="left">GitHub Status: </h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam1432&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam1432&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam1432&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam1432&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
