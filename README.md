@@ -45,4 +45,6 @@ Feel free to check out my projects and let's get to know each other better 😄
 
 <h3 align="left">GitHub Streak: </h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam1432&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam1432&hide_border=true" />
+</a>
