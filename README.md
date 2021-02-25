@@ -47,6 +47,6 @@ Feel free to check out my projects and let's get to know each other better 😄
 
 ## GitHub Streak: 
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam1432&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam1432&hide_border=true" height="180em" />
+</p>
