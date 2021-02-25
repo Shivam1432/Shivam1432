@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Shivam 👋</h2>
+## Hi there, I'm Shivam 👋
 
 <!--
 **Shivam1432/Shivam1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
