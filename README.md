@@ -20,7 +20,7 @@ I develop programs in Java and I also work on web development.
 Feel free to check out my projects and let's get to know each other better 😄
 
 
-🌱 I’m currently learning React and Nodejs
+🌱 I’m currently learning Express and Nodejs
 
 🔭 I’m currently working on Data Structures and Algorithms 
 
