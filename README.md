@@ -42,7 +42,7 @@ Feel free to check out my projects and let's get to know each other better 😄
 
 ## Github Profile Trophy: 
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sparsh-99&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivam1432&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
 
 ## GitHub Status: 
 
