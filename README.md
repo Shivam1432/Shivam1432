@@ -20,7 +20,7 @@ I develop programs in Java and I also work on web development.
 Feel free to check out my projects and let's get to know each other better 😄
 
 
-🌱 I’m currently learning Express and Nodejs
+🌱 I’m currently learning Python 
 
 🔭 I’m currently working on Data Structures and Algorithms 
 
@@ -32,7 +32,7 @@ Feel free to check out my projects and let's get to know each other better 😄
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/shivam-rana-a42107202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivam-rana-a42107202" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam-rana-75672b2b2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivam-rana-a42107202" height="30" width="40" /></a>
 <a href="https://instagram.com/shivamrana412" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shivamrana412" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivam1432" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="shivam1432" height="30" width="40" /></a>
 </p>
